@@ -8,7 +8,9 @@
 ### Para a instalação do projeto utilize os seguintes comandos:
 ```cmd
 git clone https://github.com/gabriell3103/Secret-Word.git
-cd Secret_Word
+```
+### Va até o diretório e execute os seguintes comandos:
+```cmd
 npm i
 npm run dev
 ```
